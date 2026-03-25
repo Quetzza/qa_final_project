@@ -5,7 +5,6 @@
 - [Descripción del Proyecto](#-descripción-del-proyecto)
 - [Alcance de Pruebas](#-alcance-de-pruebas)
 - [Stack Tecnológico](#️-stack-tecnológico)
-- [Arquitectura del Framework](#️-arquitectura-del-framework)
 - [Estructura del Proyecto](#-estructura-del-proyecto)
 - [Casos de Prueba Automatizados](#-casos-de-prueba-automatizados)
 - [Buenas Prácticas Implementadas](#-buenas-prácticas-implementadas)
