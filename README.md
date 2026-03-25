@@ -12,7 +12,7 @@
 - [Sección para Recruiters](#-sección-para-recruiters)
 - [Autor](#-autor)
 
-![main_page](.\img\main_page.png)
+![main_page](/img/main_page.png)
 
 ## 📖 Descripción del Proyecto
 
